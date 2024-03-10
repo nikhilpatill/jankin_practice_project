@@ -1,6 +1,6 @@
 package practice;
 
-public class Main2 {
+public class katrinamakes {
 	
 	public static void main(String[] args) {
 		

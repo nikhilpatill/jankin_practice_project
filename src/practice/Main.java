@@ -6,6 +6,7 @@ public class Main {
 		
 		
 		System.out.println("this is the new statesmebts ");
+	    System.out.println("this is main code ");
 		
 		
 	}
